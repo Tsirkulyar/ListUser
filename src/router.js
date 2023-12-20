@@ -6,7 +6,7 @@ import ListPage from './pages/ListPage.vue'
 
 const routes = [
         {
-            path: '/',
+            path: '/ListUser',
             name: 'HelloPage',
             component: HelloPage
         },
