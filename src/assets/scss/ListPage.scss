@@ -1,0 +1,32 @@
+.titleBlc{
+    background: #201F1F;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 20px;
+    width: 85%;
+    height: 120px;
+    box-shadow: 1px 1px 10px 0px rgba(214, 221, 226, 0.2);
+}
+// .titleBlcP{
+//     width: 300px;
+//     margin: auto;
+// }
+.titleBlc h1{
+    text-align: center;
+}
+.titleBlc p{
+    text-align: center;
+}
+
+@media (max-width:400px) {
+    .titleBlc{
+        padding-top: 5px;
+        margin: auto;
+        margin-top: 40px;
+        width: 93%;
+        height: 190px;
+        box-shadow: 1px 1px 10px 0px rgba(214, 221, 226, 0.2);
+    }
+
+
+}
